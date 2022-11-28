@@ -1,0 +1,24 @@
+.myBtn-primary {
+    color: #fff;
+    background-color: #1f479b;
+    border-color: #1f479b;
+}
+
+.myBtn-primary:hover {
+    color: #fff;
+    background-color: #1e3b7b;
+    border-color: #1b3774;
+}
+
+.headline{
+    font-family:  'Roboto', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.element {
+    background-image: url('/public/svg/blob-haikei.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+

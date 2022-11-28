@@ -1,0 +1,6 @@
+.navbar .nav-item .dropdown-menu{ margin-top:0; }
+.mydropdown{
+    position: absolute !important;
+    z-index: 1000;
+    top: 50px;
+}

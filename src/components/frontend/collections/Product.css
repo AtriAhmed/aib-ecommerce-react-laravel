@@ -1,0 +1,7 @@
+span.inner {
+    color: gray;
+}
+span.outer {
+    color: red;
+    text-decoration: line-through;
+}

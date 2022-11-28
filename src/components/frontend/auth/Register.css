@@ -1,0 +1,9 @@
+#uncontrolled-tab-example-tab-client{
+width: 100%;
+}
+.nav-tabs li{
+width: 50%;
+}
+#uncontrolled-tab-example-tab-company{
+    width: 100%;
+    }
